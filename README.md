@@ -59,7 +59,7 @@ VAPT-Project/
 
 ## 📜 Reports & Documentation
 📜 **[Vulnerability Assessment Report](./Reports/nessus_scan.pdf)**
-📜 **[Nmap Scan Results]([./Reports/nmap_scan.txt](https://github.com/KADALIGANGADHAR/Nmap-Scan/commit/401bc66fb8096a9e07f19cb1a49680b9c84d53ea#commitcomment-154345413))**
+📜 **[Nmap Scan Results](https://github.com/KADALIGANGADHAR/Nmap-Scan/commit/401bc66fb8096a9e07f19cb1a49680b9c84d53ea#commitcomment-154345413))**
 📜 **[Mitigation Strategies](./Mitigation.md)**
 
 ---
